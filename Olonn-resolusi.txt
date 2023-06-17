@@ -2,3 +2,5 @@ Olonn Resolusi in 2023:
 - Consistent
 - Coding practice 2x a week
 - September should be able to work
+- Master js in intermediate time
+- Make a Portfolio
